@@ -1,7 +1,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': "Payment Provider: URWAY Payment",
+    'name': "URWAY Payment Gateway",
     'version': '16.0',
     'category': 'Accounting/Payment Providers',
     'sequence': 300,
@@ -16,6 +16,7 @@
     ],
     'application': True,
     'images':['static/description/Banner.jpg'],
+    'description': "URWAY Payment Gateway Odoo V16 Plugin"
     'post_init_hook': 'post_init_hook',
     'uninstall_hook': 'uninstall_hook',
     'license': 'LGPL-3',
