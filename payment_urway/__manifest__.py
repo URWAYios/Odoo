@@ -5,6 +5,7 @@
     'version': '16.0',
     'category': 'Accounting/Payment Providers',
     'sequence': 300,
+    'author': "URWAY Technologies",
     'summary': "Allows you to accept mada / VISA / MasterCard via secure payment gateway.",
     'depends': ['payment'],
     'data': [
