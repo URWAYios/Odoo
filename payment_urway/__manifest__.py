@@ -16,7 +16,7 @@
     ],
     'application': True,
     'images':['static/description/Banner.jpg'],
-    'description': "URWAY Payment Gateway Odoo V16 Plugin"
+    'description': "URWAY Payment Gateway Odoo V16 Plugin",
     'post_init_hook': 'post_init_hook',
     'uninstall_hook': 'uninstall_hook',
     'license': 'LGPL-3',
